@@ -62,7 +62,7 @@
 
 ### Решение 2
 
-![alt text](https://github.com/ahmrust/zabbix2/tree/main/img/Задание 2.png) 
+![alt text](https://github.com/ahmrust/zabbix2/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.png) 
  ---
 
 ### Задание 3
@@ -79,7 +79,7 @@
 
 ### Решение 3
 
-![alt text](https://github.com/ahmrust/zabbix2/blob/main/img/Задание 3.png) 
+![alt text](https://github.com/ahmrust/zabbix2/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.png) 
  ---
 
 ### Задание 4
@@ -95,7 +95,7 @@
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
 ### Решение 4
-![alt text](https://github.com/ahmrust/zabbix2/blob/main/img/Задание 4.png) 
+![alt text](https://github.com/ahmrust/zabbix2/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%204.png) 
  ---
 
 ### Задание 5* со звёздочкой
