@@ -62,7 +62,7 @@
 
 ### Решение 2
 
-![alt text](https://github.com/ahmrust/zabbix2/blob/main/img/Задание 2.png) 
+![alt text](https://github.com/ahmrust/zabbix2/tree/main/img/Задание 2.png) 
  ---
 
 ### Задание 3
